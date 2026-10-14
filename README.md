@@ -1,76 +1,46 @@
-# Business Case Magist - Supplier Fit Assessment
-
-> **Strategische Partnerschaft & Markteintritt Brasilien**
-> ENIAC x MAGIST | Supplier Fit Assessment
-
-**Datum:** 14.10.2026 | **Präsentiert durch:** T.E.M.
-
-### 📌 Gesamtergebnis: 3-jähriges Pilot-Projekt (Empfohlen)
-
-Dieses Repository enthält die strategische Analyse für eine potenzielle Partnerschaft zwischen **ENIAC** und dem brasilianischen Marktplatz **Magist**.
+# ENIAC × MAGIST — Supplier Fit Assessment
+## Strategische Partnerschaft & Markteintritt Brasilien
+**Gesamtergebnis • 3-jähriges Pilot-Projekt (EMPFOHLEN)** — T.E.M. | 14.10.2026
 
 ---
 
-### 🎯 Projektziel
+### 01 — Marktsegmentierung Brasilien
+> **83% Non-Tech vs. 17% Tech** — Der brasilianische E-Commerce wird von Non-Tech dominiert. ENIACs Stärke liegt exakt dort.
 
-Evaluierung des Markteintritts in Brasilien durch eine strategische Partnerschaft mit Magist als Supplier, um von bestehender Infrastruktur, Kundenstamm und Logistik zu profitieren.
+- **Tech:** 17% des Marktes, hoher Wettbewerb
+- **Non-Tech:** 83% des Marktes, ENIAC Core-Fit
 
-### 📊 Kernanalysen
+### 02 — Wachstum & Nachfrage
+**+28,6% YoY | 21.000 → 27.000 Bestellungen**
+Starkes, profitables Wachstum. Kein Discount-getriebenes Volumen.
 
-#### 1. Markt Brasilien
-- **Produkt-Portfolio:** Nur 17% Tech-Produkte, 83% breites Non-Tech-Sortiment
-- **Schnelles Wachstum:** Von 21k auf 27k Bestellungen innerhalb eines Jahres (**+28,6% Wachstum**)
+### 03 — Kundenzufriedenheit
+**4,1 / 5,0 — Stabil trotz starkem Wachstum**
+NPS bleibt konstant während +28% Order-Wachstum. Operative Exzellenz bewiesen.
 
-#### 2. Wachstum & Kunden (2017-2018)
-- **Stetiges Wachstum in allen Kategorien – Tech & Non-Tech**
-    - Non-Tech: Anstieg von <1k auf >6k Bestellungen/Monat
-    - Tech: Stabiles Wachstum von ~0 auf ~1k Bestellungen/Monat
-- **Stabile Kundenzufriedenheit:** **Stabil bei 4,1 / 5,0 trotz starkem Wachstum**
-
-#### 3. Markt- & Umsatzanalyse
+### 04 — Markt- & Umsatzfokus
 | Kennzahl | ENIAC | MAGIST |
-| :--- | :--- | :--- |
-| **Jahresumsatz (Umsatz p.a.)** | 14 M | 6,9 M (davon Tech 115K) |
-| **Ø Produktpreis** | 540 | 124 |
+|---|---|---|
+| GMV | 14M € | 6,9M € |
+| Avg. Price | 540 € | 124 € |
+| Fokus | São Paulo & Rio | National |
 
-**Umsatzfokus im Südosten: São Paulo & Rio de Janeiro**
-Top 10 Cities by Revenue konzentrieren sich im Südosten Brasiliens – Kernmarkt für den Launch.
+**Insight:** ENIAC bringt höherwertige Warenkörbe in die kaufkräftigsten Regionen.
 
-#### 4. Lieferzeiten – Kritischer Faktor
-- **Magist (Brazil-National):** 12,5 Tage
-- **Brazil Average (Black Friday 2025):** 8 Tage
-- **Abweichung:** +4,5 Tage über Marktdurchschnitt
-- **EU Standard:** 3-7 Tage
+### 05 — Lieferperformance
+- Durchschnitt: 12,5 Tage vs. 8 Tage Benchmark
+- Abweichung: +4,5 Tage
+- **Empfehlung:** Lokales Fulfillment in São Paulo zur Reduktion auf <9 Tage.
 
-> Die brasilianische Logistikbranche gilt als dynamisch und leistungsfähig, Magists Performance liegt jedoch deutlich über dem Durchschnitt.
+### 06 — Chancen vs. Risiken
+**Chancen:** Premium-Segment, Cross-Selling, Lokalisierungs-Vorteil
+**Risiken:** Lieferabweichung, Zoll-Komplexität, FX-Volatilität
 
-### ⚖️ Kurzfassung: Chancen vs. Risiken
-
-**Chancen:**
-- Starkes Kundenwachstum
-- Leistungsstarke Lieferkette (Potenzial)
-- Sofortiger Markteintritt mit bestehendem Kundenstamm
-
-**Risiken:**
-- Schlechte Lieferzeit-Performance
-- Unstimmigkeiten beim Produkt-Portfolio (Preis / Tech-Anteil)
-- Langfristige Abhängigkeit
-
-### ✅ Empfehlung
-
-1.  **Fortfahren mit 3-jähriger Pilot-Partnerschaft**
-2.  **Smartes Sortiment:** Einführung preiswerterer Produkte zur Angleichung an MAGIST-Portfolio
-3.  **SLA's setzen (Service Level Agreement):** Lieferung 3-7 Tage, Kundenbewertungen > 4 Sterne
-4.  **Marketing Kampagne:** Launch von Produkten in Brasilien zur Erleichterung des Markteintritts
-
-### 🛠️ Tech Stack / Tools
-- Analyse: Markt- & Umsatzdaten Brasilien (2017-2018)
-- Präsentation: Strategisches Business Case Design
-- Sprachen: Deutsch (Präsentation), Englisch
-
-### 📂 Inhalt
-- `Eniac-Supplier_Fit_Assesment_Magist.pdf` – Vollständige Präsentation
-- `README.md` – Diese Dokumentation
+### 07 — Empfehlung: 3-Jahres Pilot
+**01.** Pilot-Launch São Paulo (Q1)
+**02.** Lokales Lager + Retouren-Hub
+**03.** Co-Branding ENIAC × MAGIST
+**04.** KPI-Gate nach 12 Monaten → Skalierung Rio & Süd
 
 ---
-**Status:** Empfohlen zur Umsetzung als Pilot-Projekt
+*Repo: /docs/analysis.md / /data/br_market.csv / /deck/eniac_magist.pdf*
