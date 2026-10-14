@@ -44,3 +44,4 @@ NPS bleibt konstant während +28% Order-Wachstum. Operative Exzellenz bewiesen.
 
 ---
 *Repo: /docs/analysis.md / /data/br_market.csv / /deck/eniac_magist.pdf*
+
